@@ -34,7 +34,7 @@ public class Main extends Application {
     Stage primaryStage;
     Color color = Color.web("#c6cabc");
     HBox menuItems;
-    private Scene homeScene;
+    Scene homeScene;
     Scene menuScene;
     Scene galleryScene;
     Scene bookingScene;
